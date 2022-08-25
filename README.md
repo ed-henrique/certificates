@@ -11,3 +11,4 @@ All my certificates related to technology.
 - [Precalculus Course - UFRR (Participant)](https://github.com/ed-henrique/certificates/blob/main/UFRR/precalculus.pdf)
 - [Technical Visit to Manaus - UFRR (Participant)](https://github.com/ed-henrique/certificates/blob/main/UFRR/tech-visit-manaus.pdf)
 - [Introduction to Programming - UFRR (Volunteer)](https://github.com/ed-henrique/certificates/blob/main/UFRR/intro-to-programming-ufrr.pdf)
+- [Agile Development - DevOps Docker - Samsung Ocean (Participant)](https://github.com/ed-henrique/certificates/blob/main/Samsung/devops-docker.pdf)
