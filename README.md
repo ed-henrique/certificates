@@ -7,6 +7,7 @@ All my certificates related to technology.
 - [C Course - Sololearn](https://github.com/ed-henrique/certificates/blob/main/C/c-sololearn.pdf)
 - [C++ Course - Sololearn](https://github.com/ed-henrique/certificates/blob/main/C++/cpp-sololearn.pdf)
 - [Algorithms in C# - Udemy](https://github.com/ed-henrique/certificates/blob/main/C%23/algorithms-c%23-udemy.pdf)
+- [Operação Acolhida (Volunteer)](https://github.com/ed-henrique/certificates/blob/main/Events/operacao-acolhida.pdf)
 - [Linux Experience - DIO (Participant)](https://github.com/ed-henrique/certificates/blob/main/Dio/linux-experience.pdf)
 - [CODECON 2021 - Sympla (Participant)](https://github.com/ed-henrique/certificates/blob/main/Events/codecon-2021-sympla.pdf)
 - [Precalculus Course - UFRR (Participant)](https://github.com/ed-henrique/certificates/blob/main/UFRR/precalculus.pdf)
