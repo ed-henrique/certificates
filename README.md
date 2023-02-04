@@ -16,6 +16,7 @@ All my certificates related to technology.
 - [Self Responsibility - The Road to Success (Talk)](https://github.com/ed-henrique/certificates/blob/main/Events/palestra-autorresponsabilidade.pdf)
 - [Jornada Científica da Computação (Listener)](https://github.com/ed-henrique/certificates/blob/main/Events/jcc-listener.pdf)
 - [Jornada Científica da Computação (Organizer)](https://github.com/ed-henrique/certificates/blob/main/Events/jcc-organizer.pdf)
+- [CTFV Course by Ladislau Cursos (Participant)](https://github.com/ed-henrique/certificates/blob/main/Miscelaneous/cftv-course.png)
 - [Agile Development - DevOps Docker - Samsung Ocean (Participant)](https://github.com/ed-henrique/certificates/blob/main/Samsung/devops-docker.pdf)
 
 ### Trabalhador 4.0
